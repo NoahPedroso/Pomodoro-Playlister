@@ -24,7 +24,7 @@ Coming soon:
         ``` -->
 ## Usage
 
-To run the application, use the following command in a terminal: `python spotifyTesting.py`
+To run the application, use the following command in a terminal: `python app.py`
 <!-- 1. Choose the playlist you wish to add timers to
 2. Decide how long you want the timers to be
 3. Start the timer-->
